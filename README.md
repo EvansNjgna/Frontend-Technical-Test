@@ -1,6 +1,6 @@
-# Frontend-Technical-Test
+# Frontend-Development-Technical-Test
 
-## AlienSoft Product Management App
+## Product Management App
 
 A modern, responsive product management dashboard built with **Vue 3**, **Pinia**, and **Tailwind CSS**. This application demonstrates a complete CRUD workflow for product management using the public DummyJSON API.
 
